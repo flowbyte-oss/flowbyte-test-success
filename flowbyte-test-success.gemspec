@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/flowbyte/flowbyte-test-success'
   s.license     = 'MIT'
 
-  s.add_runtime_dependency('rake', '~> 10.0')
+  s.add_runtime_dependency('rake', '~> 11.3')
 end
